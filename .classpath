@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/dev/libraries/commons-io-2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/dev/libraries/gdx.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/dev/libraries/gson-2.2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/dev/libraries/tween-engine-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/dev/libraries/gdx-freetype.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/dev/libraries/gdx-freetype-natives.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
